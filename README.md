@@ -25,6 +25,9 @@
 
 [<img width=50px src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">](https://www.linkedin.com/in/sathiya-narayanan-704bb2255 "My linkedin Profile link")
 
+[<img width=50px src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3521478-2944922.png?f=avif&w=256">](https://www.hackerrank.com/sathiyanarayan31 "My HackerRank Profile link")
+
+
 </div>
 
 <br>
