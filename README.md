@@ -26,7 +26,7 @@
 [<img width=50px src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">](https://www.linkedin.com/in/sathiya-narayanan-704bb2255 "My linkedin Profile link")
 [<img width=50px src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3521478-2944922.png?f=avif&w=256">](https://www.hackerrank.com/sathiyanarayan31 "My HackerRank Profile link")
 [<img width=50px src="https://leetcode.com/static/images/LeetCode_logo_rvs.png">](https://leetcode.com/SATHIYA_NARAYANAN_B/ "My Leetcode Profile link")
-
+[<img style="width:50px;border-radius:10px;" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/11/CN-DP.jpg">](https://www.codingninjas.com/studio/profile/8e67e27f-8ab0-43de-b642-34e7d1d46a0e "My Coding Ninja Profile Link")
 
 </div>
 
@@ -63,6 +63,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![VS code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&border_radius=20px)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 <!--![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
 
 </div>
